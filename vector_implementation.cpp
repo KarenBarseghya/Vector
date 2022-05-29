@@ -26,15 +26,6 @@ public:
 
 int main()
 {
-    Vector<int> a;
-    a.push_back(6);
-    a.push_back(6);
-    a.push_back(6);
-    a.push_back(6);
-    a.push_back(6);
-    a.resize(6);
-
-    std::cout << a.cap_vec();
    
 }
 
